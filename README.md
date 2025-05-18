@@ -33,10 +33,12 @@ Esta aplicación está construida con **Ionic** y **Angular** para gestionar fot
 
 **Splash Screen (modo claro)**
 
-![icono](https://github.com/user-attachments/assets/78373f2b-962f-45f1-8e8c-b8ad3d84bbff)
+![icono](https://github.com/user-attachments/assets/264cc3ed-42de-4623-9e29-978ab5d2c082)
+
 
 **Splash Screen (modo oscuro)**
 
-![icono](https://github.com/user-attachments/assets/78d40a66-2369-472e-aaa9-9987dfb15400)
+![icono](https://github.com/user-attachments/assets/69681df1-ca98-4334-9231-6b4435b6a5ff)
+
 
 
