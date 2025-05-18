@@ -33,10 +33,10 @@ Esta aplicación está construida con **Ionic** y **Angular** para gestionar fot
 
 **Splash Screen (modo claro)**
 
-![Imagen de WhatsApp 2025-05-18 a las 01 07 54_78d9c7db](https://github.com/user-attachments/assets/78373f2b-962f-45f1-8e8c-b8ad3d84bbff)
+![icono](https://github.com/user-attachments/assets/78373f2b-962f-45f1-8e8c-b8ad3d84bbff)
 
 **Splash Screen (modo oscuro)**
 
-[Imagen de WhatsApp 2025-05-18 a las 01 07 54_b5f88c36](https://github.com/user-attachments/assets/78d40a66-2369-472e-aaa9-9987dfb15400)
+![icono](https://github.com/user-attachments/assets/78d40a66-2369-472e-aaa9-9987dfb15400)
 
 
