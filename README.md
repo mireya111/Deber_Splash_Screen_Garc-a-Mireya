@@ -3,7 +3,7 @@
 ## <span style="color:#2196F3;">Descripción</span>
 
 Esta aplicación está construida con **Ionic** y **Angular** para gestionar fotos utilizando la cámara del dispositivo y mostrarlas en una galería. Los usuarios pueden capturar fotos y verlas de inmediato.
-[Descargar aquí el apk](https://drive.google.com/file/d/1cEv171Fne-wVl1iVjuJtubuLrcF5yw1L/view?usp=drive_link)
+[Descargar aquí el apk](https://drive.google.com/file/d/1M96otlZgJrS5qm4lvEvonIScYYEfw2SW/view?usp=sharing)
 
 ### <span style="color:#FF5722;">Un poco de cual su el metodo que se utilizo para realizar la actividad</span>
 
