@@ -29,8 +29,10 @@ Esta aplicación está construida con **Ionic** y **Angular** para gestionar fot
 
 **Icono que se presenta al intalar la aplicación**
 ![icono](https://github.com/user-attachments/assets/ac40154c-cf25-4418-84d7-c430e7fda796)
+
 **Splash Screen (modo claro)**
 ![Imagen de WhatsApp 2025-05-18 a las 01 07 54_78d9c7db](https://github.com/user-attachments/assets/78373f2b-962f-45f1-8e8c-b8ad3d84bbff)
+
 **Splash Screen (modo oscuro)**
 ![Imagen de WhatsApp 2025-05-18 a las 01 07 54_b5f88c36](https://github.com/user-attachments/assets/4b62f355-dcf4-4943-8f88-3ec09fbd6a32)
 
